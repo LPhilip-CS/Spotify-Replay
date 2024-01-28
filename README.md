@@ -1,13 +1,14 @@
 # Spotify Replay 🎶
 ![Spotify_Logo_RGB_Green](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/204e1a6b-99d9-4645-8e6b-ccd3d9d59c15)
 
-This repository contains the code and analysis for exploring and gaining insights from a Spotify dataset. 
+This repository contains the code and analysis for exploring and gaining insights from a Spotify dataset. Identify and analyze trends in music consumption on the Spotify platform. Generate insights that can inform decision-making for Spotify stakeholders.
 
 Below is a brief overview to help you navigate through the project:
 
 ## Project Objective:
-- Understand the factors influencing life expectancy worldwide.
+- Gain a deeper understanding of how users engage with Spotify.
 - Identify patterns, and correlations, in user listening preferences.
+- Analyze user listening patterns, including peak hours, days, and seasonal variations, to understand when and how users interact with the platform.
 
 ## Answering Questions:
 - What are the top 5 highest streamed songs and artists of all time?
@@ -25,15 +26,15 @@ Below is a brief overview to help you navigate through the project:
 
 ## Project Structure:
 Data Cleaning:
-- All the data cleaning was done within the Power query editor within Power BI.
-- Including correcting errors, standardizing column formats, and nullifying missing values.
+- All the data cleaning was done in the Power Query editor within Power BI.
+- Correcting errors, standardizing column formats, and nullifying missing values.
 - Establish relationships between different tables in the dataset (Calendar).
   
 Exploratory Data Analysis (EDA):
 - Focuses on extracting meaningful insights from the dataset using power query.
 - Discover trends and relationships between attributes and elements of music.
+- Uncover patterns related to popular tracks, genres, and artists, providing insights into user preferences.
 - Aggregate data over time to observe popular trends among tracks, artists, and albums.
-- Explore correlations between life expectancy and other variables using the correlation coefficient (if applicable).
 
 Visualization:
 - Explore the 'Spotify Replay.pbix' file for interactive charts and graphs by exporting the 'Spotify replay RAW.xlsx' file.

@@ -40,7 +40,8 @@ Visualization:
 - Is there a correlation between song elements (danceability, speechiness, etc...) and the popularity of the song?
 - Which month has the highest number of tracks released? Highest average stream? 
 
-![Screenshot 2024-01-27 213728](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/90ff10aa-d689-452d-a3dd-c9ed466a3c17)
+![Screenshot 2024-01-27 213914](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/a07f4495-20cb-4354-b812-7caa77585ef8)
+
 
 ![Screenshot 2024-01-27 213858](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/15cb8308-a024-4375-b8ba-d1e4ff141efc)
 

@@ -1,8 +1,7 @@
-# World Life Expectancy 🌎
+# Spotify Replay 🎶
 ![Spotify_Logo_RGB_Green](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/204e1a6b-99d9-4645-8e6b-ccd3d9d59c15)
 
-Welcome to the World Life Expectancy Project. A comprehensive analysis of global demographic data to understand and interpret trends in life expectancy across different regions and populations. 
-This project aims to provide insights into the factors influencing life expectancy, identify patterns, temporal trends, correlation analysis, and present findings through dynamic visualizations to enhance understanding. 
+This repository contains the code and analysis for exploring and gaining insights from a Spotify dataset. The dataset provides information about tracks, artists, user preferences, streams and more, collected from the Spotify platform. 
 
 Below is a brief overview to help you navigate through the project:
 
@@ -12,6 +11,7 @@ Below is a brief overview to help you navigate through the project:
 - Provide valuable insights for policymakers, healthcare professionals, and researchers.
 
 ## Dataset:
+- [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 - The dataset includes life expectancy data for various countries.
 - Key variables include Status, GDP, BMI, mortality rates, and more.
 - Access the dataset through the 'WorldLifeExpectancy.xlsx' or the 'DatabaseScript.sql' file.
@@ -19,9 +19,7 @@ Below is a brief overview to help you navigate through the project:
 ## Project Structure:
 Data Cleaning:
 - Find the data cleaning script in the 'DataCleaning.sql' file.
-- Addresses missing values, and outliers, and standardizes formats.
-- Ensure data integrity and format consistency.
-
+  
 Exploratory Data Analysis (EDA):
 - Focuses on extracting meaningful insights from the dataset using SQL queries. 
 - Discover trends and relationships between attributes.
@@ -37,13 +35,14 @@ Visualization:
 
 
 ## Answering Questions:
-- Which top 5 countries have the highest average life expectancy?
-- Is there a drastic change in life expectancy (2007-2022) worldwide?
-- Is there a correlation between life expectancy and a country's status (developed vs. developing)?
-- What are the overall mortality rates among the age ranges in the United States?
+- What are the top 5 highest streamed songs and artists of all time?
+- Is there a difference in total daily streams?
+- Is there a correlation between song elements (danceability, speechiness, etc...) and the popularity of the song?
+- Which month has the highest number of tracks released? Highest average stream? 
 
+![Screenshot 2024-01-27 213728](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/90ff10aa-d689-452d-a3dd-c9ed466a3c17)
 
-
+![Screenshot 2024-01-27 213858](https://github.com/LPhilip-CS/Spotify-Replay/assets/98559773/15cb8308-a024-4375-b8ba-d1e4ff141efc)
 
 ## Working in SQL:
 - Clone the repository to your local machine.
